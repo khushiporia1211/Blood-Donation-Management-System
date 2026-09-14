@@ -2,7 +2,7 @@
 
 A multi-role web application for managing blood donations, donor records, and blood stock — built with Spring MVC, Hibernate, and MySQL.
 
-🔗 **Live Demo:** [https://blood-donation-management-system-4114.onrender.com/login?type=donor](https://blood-donation-management-system-4114.onrender.com/login?type=donor)
+🔗 **Live Demo:**https://blood-donation-management-system-4114.onrender.com/
 
 ## About
 
